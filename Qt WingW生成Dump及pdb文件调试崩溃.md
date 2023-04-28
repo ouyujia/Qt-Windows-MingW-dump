@@ -208,7 +208,7 @@ int main(int argc, char *argv[])
 
 [下载链接](https://github.com/rainers/cv2pdb)
 
-![1682242797578](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/21682242797578.png)
+![1682242797578](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682242797578.png)
 
 下载下来使用vs2017编译源码的到cv2pdb.exe文件。
 

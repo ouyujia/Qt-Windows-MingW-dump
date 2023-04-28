@@ -208,7 +208,7 @@ int main(int argc, char *argv[])
 
 [下载链接](https://github.com/rainers/cv2pdb)
 
-![1682242797578](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682242797578.png)
+![1682242797578](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/21682242797578.png)
 
 下载下来使用vs2017编译源码的到cv2pdb.exe文件。
 
@@ -219,7 +219,7 @@ int main(int argc, char *argv[])
 >1. 打开命令行，cd到cv2pdb.exe文件路径下
 >2. 执行指令 “cv2pdb.exe  xxx.exe”即可在xxx.exe同级路径下生成xxx.pdb文件
 
-![1682243028125](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682243028125.png)
+![1682243028125](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682243028125.png)
 
 ### 出现错误：
 
@@ -247,9 +247,9 @@ int main(int argc, char *argv[])
 
 #### 设置调试pdb目录位置
 
-![1682243563126](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682243563126.png)
+![1682243563126](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682243563126.png)
 
-![1682243641185](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682243641185.png)
+![1682243641185](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682243641185.png)
 
 ---
 
@@ -257,15 +257,15 @@ int main(int argc, char *argv[])
 
 在解决方案-属性，打开弹窗设置
 
-![1682243771250](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682243771250.png)
+![1682243771250](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682243771250.png)
 
 #### 调试
 
 > 点击 “使用 仅限本机 进行调试”
 
-![1682243822104](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682243822104.png)
+![1682243822104](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682243822104.png)
 
-![img](file:///c:\users\public\documents\kk6%20files\kk6.0\account\3957@kk.mehow.com.cn\image_cache\575051291f8b4b0a8ff03e0555cf2c74.jpg)
+![img](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/kk_image.jpg)
 
 ---
 
@@ -279,10 +279,10 @@ int main(int argc, char *argv[])
 
 > 1. 双击打开windbg.exe，选择相应版本
 >
-> ![1682405865975](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682405865975.png)
+> ![1682405865975](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682405908877.png)
 >
 > 2. 依次完成如下配置
->   打开File 需要完成 Symbol File Path 、Source File Path、Image File Path 的配置
+> 打开File 需要完成 Symbol File Path 、Source File Path、Image File Path 的配置
 >
 >   1. Symbol File Path ：这里就是加載pdb文件的路徑
 >
@@ -294,9 +294,11 @@ int main(int argc, char *argv[])
 >
 >   5. 输入命令 !analyze -v ，等待几秒后会打印出错误信息
 >
->      ![1682407236891](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682407236891.png)
+> ![1682407236891](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682407236891.png)
 >
->      ![1682407088643](C:\Users\033345\AppData\Roaming\Typora\typora-user-images\1682407088643.png)
+> 
+>
+>   ![1682407088643](https://cdn.jsdelivr.net/gh/ouyujia/blog-img/img/1682407088643.png)
 >
 
 1、Symbol File Path ：這裏就是加載pdb文件的路徑，我們直接使用

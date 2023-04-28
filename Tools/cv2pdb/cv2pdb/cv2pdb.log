@@ -1,0 +1,97 @@
+﻿  Assembling cvt80to64.asm...
+  cv2pdb.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(169): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(369): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(427): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(460): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(559): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(584): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(617): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1274): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1336): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1343): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1350): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1440): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1444): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1456): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(1582): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(2438): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(2497): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(2523): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(2586): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(2956): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(3058): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(3073): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(3095): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\cv2pdb.cpp(3362): warning C4244: “=”: 从“unsigned __int64”转换到“short”，可能丢失数据
+  cvutil.cpp
+  demangle.cpp
+  dwarf2pdb.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(360): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(373): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(379): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(617): warning C4244: “+=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(626): warning C4244: “+=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(651): warning C4244: “+=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(700): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(701): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(728): warning C4244: “+=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(807): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(808): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(854): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(856): warning C4244: “=”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1117): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1543): warning C4244: “参数”: 从“uint64_t”转换到“long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1584): warning C4244: “参数”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1623): warning C4244: “-=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1669): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarf2pdb.cpp(1769): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  dwarflines.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(94): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(128): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(248): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(300): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(344): warning C4018: “<”: 有符号/无符号不匹配
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(358): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(368): warning C4002: 类函数宏的调用“assert”参数过多
+e:\work\pdbtool\cv2pdb-0.52\src\dwarflines.cpp(449): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  main.cpp
+  mspdb.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\mspdb.cpp(125): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PEImage.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(221): warning C4018: “>=”: 有符号/无符号不匹配
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(337): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(608): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(690): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(694): warning C4018: “<”: 有符号/无符号不匹配
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(703): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\peimage.cpp(726): warning C4244: “-=”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+  readDwarf.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(447): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(450): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(451): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(454): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(535): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(648): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(662): warning C4244: “return”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(765): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(770): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(778): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(784): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(785): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(790): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(799): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\readdwarf.cpp(804): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  symutil.cpp
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(126): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(132): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(158): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(169): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(200): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(237): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work\pdbtool\cv2pdb-0.52\src\symutil.cpp(275): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 2131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  cv2pdb.vcxproj -> E:\Work\pdbTool\cv2pdb-0.52\src\..\bin\Release_x64\cv2pdb.exe
